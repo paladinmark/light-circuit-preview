@@ -1,0 +1,3 @@
+Light Circuit prototype assets
+
+The cosmic ruins background is the project-approved ImageGen-generated derivative. Canvas optical materials, SVG icons, and crystal geometry are original project assets. Audio cues are synthesized with Web Audio; no music file is included. Fonts use local system fallbacks and are not distributed. No design reference boards or private source documents are included in this preview repository.

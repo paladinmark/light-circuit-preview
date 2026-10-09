@@ -1,0 +1,32 @@
+{
+  "buildId": "LC-S1-c4a33258aaa02219",
+  "sourceSha256": "c4a33258aaa022191c03071bab30148e3e421bdc2d50c5e1c25b7d5b0e75077b",
+  "sourceCommit": "68424997d3f6777da1c66c38146b7358788b21f8",
+  "workingTree": "CLEAN",
+  "builtAt": "2026-10-09T14:37:52.725Z",
+  "ruleset": "LC-CARDINAL-1",
+  "levelsSha256": "522d4241664a42be0b2e78d9643eb30af5ecd30ed77f31cc5104e19f9db90bd1",
+  "lockfileSha256": "dc515bcadf385809325bbf0672679257759fc51c2a0e205834b8f8f938dd1944",
+  "files": [
+    {
+      "path": "assets/index-CplkHeoT.css",
+      "sha256": "1c1d1687aabea85eaf9af01877dd37b1f370929a7727ac5f9f5b6ddec6bff42a",
+      "bytes": 15466
+    },
+    {
+      "path": "assets/index-CzXPs9nU.js",
+      "sha256": "b779b166d0194c59242eddc0cafa3938f45b6360f9a61520ae491a4c1d04996e",
+      "bytes": 47063
+    },
+    {
+      "path": "cosmic-ruins.jpg",
+      "sha256": "183436dc3e00d0ed46777d7695fdc87df522f99658f2cce814cd1e42834d4fb2",
+      "bytes": 252702
+    },
+    {
+      "path": "index.html",
+      "sha256": "777c1d9835c57275d03c09aae31a70d8a13e0792196db9d742b10182a686990e",
+      "bytes": 625
+    }
+  ]
+}
