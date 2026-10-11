@@ -1,0 +1,47 @@
+{
+  "purpose": "EVALUATION_PREVIEW_NOT_PRODUCT_RELEASE",
+  "buildId": "LC-CR-R2-3d8f58e354b33d18",
+  "sourceSha256": "3d8f58e354b33d18fdd8cfdf3dde51ec281966517ab2b1af6103f05cbcbce510",
+  "builtAt": "2026-10-11T02:46:53.918Z",
+  "sourceCommit": "68424997d3f6777da1c66c38146b7358788b21f8",
+  "buildStage": "GAMEPLAY_FEASIBILITY_EXPERIMENT",
+  "scenarios": [
+    {
+      "id": "LC-CR-R2-01",
+      "revision": 1,
+      "sha256": "ebcd64bb2fc70da11d767550daf3b2fc3671bde058090a32e11f1d64474379c2"
+    },
+    {
+      "id": "LC-CR-R2-02",
+      "revision": 1,
+      "sha256": "3e6d8bd9c619253caedd0926160bd06868f68c34408f523d4a623f3a301a3410"
+    },
+    {
+      "id": "LC-CR-R2-03",
+      "revision": 1,
+      "sha256": "0b23905827c91a2544cd729caba8bb6b78e7dcb8a8ae7b63d403b349aceed271"
+    }
+  ],
+  "runtimeFiles": [
+    {
+      "path": "assets/chain-reaction-CG8flUGW.css",
+      "bytes": 5057,
+      "sha256": "7c72b3dba079edc1609e0967fff16afbd689958b8901f9a0ac50909f2ff0e4e9"
+    },
+    {
+      "path": "assets/chain-reaction-CK2EcYlo.js",
+      "bytes": 20383,
+      "sha256": "8842b039d4ac81188814c88f70df71e49f5bca1f388c1ad219b3065c75805f74"
+    },
+    {
+      "path": "chain-reaction.html",
+      "bytes": 494,
+      "sha256": "31f3b9217a399f6beb3871cc5609a309a3eba80255da86f8ca8a6ceaca565e9f"
+    }
+  ],
+  "humanCalibration": "NOT_RUN",
+  "ownerReview": "PENDING",
+  "realDeviceEvaluation": "NOT_RUN",
+  "storage": "MEMORY_ONLY",
+  "publicationDate": "2026-10-11"
+}
