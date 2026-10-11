@@ -1,0 +1,47 @@
+{
+  "purpose": "EVALUATION_PREVIEW_NOT_PRODUCT_RELEASE",
+  "buildId": "LC-GME-R1-4e0b2581ec25fc00",
+  "sourceSha256": "4e0b2581ec25fc00b3a84010627fa96b3205cb883d890a3c249f20d4d831d1d4",
+  "builtAt": "2026-10-10T15:44:53.437Z",
+  "sourceCommit": "68424997d3f6777da1c66c38146b7358788b21f8",
+  "buildStage": "LOCAL_MECHANISM_PROTOTYPE",
+  "prototypes": [
+    {
+      "id": "LC-GME-R1-A-01",
+      "revision": 2,
+      "contentSha256": "87b6ae5be1e243900ab2474c86e286d34ed5658b82de948b649d96152032d4d7"
+    },
+    {
+      "id": "LC-GME-R1-D-01",
+      "revision": 2,
+      "contentSha256": "d4d50f935f43ae6f56163819da2029e84fe4bf82736be07c18d58767f9e0836b"
+    },
+    {
+      "id": "LC-GME-R1-E-01",
+      "revision": 1,
+      "contentSha256": "ea6641dd1930a9f5f16a62268a09bc98baac572640131e780acb34b72a655d53"
+    }
+  ],
+  "runtimeFiles": [
+    {
+      "path": "assets/gameplay-lab-BqunWcL1.css",
+      "bytes": 5203,
+      "sha256": "7a0dc17eb05a4753e0058843d4d9d380eb8d5ae7051ac3a2737fd4918e5bfe94"
+    },
+    {
+      "path": "assets/gameplay-lab-gVbwma9g.js",
+      "bytes": 24349,
+      "sha256": "76b671ca358fed9c00e9290b16303993b99dd7a281ae0378be91d7854971244f"
+    },
+    {
+      "path": "gameplay-lab.html",
+      "bytes": 484,
+      "sha256": "06a17b20612a9789a8d17642bee9570d0b81796d18911b77808cad44dd2daac6"
+    }
+  ],
+  "humanCalibration": "NOT_RUN",
+  "ownerReview": "PENDING",
+  "realDeviceEvaluation": "NOT_RUN",
+  "storage": "MEMORY_ONLY",
+  "publicationDate": "2026-10-11"
+}
